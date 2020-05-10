@@ -1,0 +1,187 @@
+body {
+  padding-top: 54px;
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  font: 13px/20px normal Helvetica, Arial, sans-serif;
+  ::selection{ background-color: #E13300; color: white; }
+  ::moz-selection{ background-color: #E13300; color: white; }
+  ::webkit-selection{ background-color: #E13300; color: white; }
+}
+ 
+.navbar-dark .navbar-nav .nav-link{
+  color: #ffffff;
+  font-weight: bold;
+} 
+.depan{
+  margin: 70px 0px 0px;
+  font: 13px/20px normal Helvetica, Tahoma, sans-serif;
+  color: #000;
+}
+
+.depan:after{
+  border-bottom: 1px solid red;
+ 
+}
+
+.promo{
+width: 100%;
+color: #fff;
+margin-top: -65px;
+}
+
+.artikel_full{ 
+  
+}
+
+.kiri, .kanan, p{
+
+margin-top: 0;
+margin-bottom: .12rem;
+}
+
+.kiri{
+ background: -webkit-linear-gradient(45deg, rgba(31, 6, 227, 0.74), rgba(54, 177, 255, 0.6) 100%);
+ width: 50%;
+ float: left;
+ text-align: right;
+ padding: 10px;
+ height: 250px;
+ overflow: hidden;
+
+}
+.kanan{
+  background: -webkit-linear-gradient(45deg, rgba(241, 233, 126, 0.74), rgba(40, 44, 210, 0.6) 100%);
+  width: 50%;
+  float: right;
+  text-align: left;
+  padding: 10px;
+  height: 250px;
+  overflow: hidden;
+}
+
+@media(min-width: 992px){
+  footer{
+   height: auto;
+   width: 100%;
+  }
+}
+
+.box-header {
+    color: #444;
+    display: block;
+    padding: 10px;
+    position: relative;
+}
+
+.box.box-primary{
+  border-top-color:#3c8dbc;
+}
+.box{
+  position: relative;
+  border-radius: 3px;
+  background: transparent;
+  border-top: 3px solid #d2d6de;
+  margin-bottom: 20px;
+  width: 100%;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+}
+
+#respon{
+  height: 120px;
+  width: 120px;
+  float: center;
+}
+
+@media(max-width: 992px){
+  .kiri{
+   display: none;
+  }
+  .kanan{
+   display: none;
+  }
+  #respon{
+     height: 100px;
+     width: 100px;
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+  section,.home {
+    background: transparent;
+  }
+}
+
+#tangah_bana{
+
+background:url('../../../bg.jpg');  
+padding: 30px;
+color: #fff;
+margin-bottom:-12px; 
+}
+
+.nav,.navbar{
+ background: yellow;
+
+}
+
+nav li a:hover {
+  background: #17a8c1!important;
+  background-size: 100%;
+
+}
+ 
+
+.bg-secondary{
+	background: #fff;
+}
+
+.mt-4, .my-4{
+
+	background: transparent;
+}
+
+
+ section,.home {
+    margin-top: -27px;
+    height: auto;
+}
+
+cs-footer {
+    padding: 10px 10px 10px;
+    height: auto;
+    overflow: hidden;
+    background: #2613ab!important;
+}
+
+footer{
+   background: #2613ab!important;
+   height: auto;
+   padding: 10px 40px 10px;
+   margin-bottom:-50px; 
+}
+
+.sub_footer{
+    background: #eb9a07;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    margin-bottom: -10px;
+}
+
+
+.form-control{
+    border-radius: 0;
+
+}

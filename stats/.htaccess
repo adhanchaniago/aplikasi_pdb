@@ -1,0 +1,7 @@
+AuthName "ppdb.smpn1kwandang.sch.id statistics"
+AuthType Basic
+AuthUserFile /home/ppdb/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

@@ -1,0 +1,1 @@
+1. buka folder config settig database name ke example localhost 

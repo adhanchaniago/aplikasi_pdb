@@ -1,0 +1,915 @@
+# Webalizer V2.23-08 Incremental Data - 04/21/2020 23:57:23
+2020 4 21 23 57 23
+2078 1788 110 164 32 35 184222773 279 102 0 0 0
+3 11 295 1 21
+13 12 438658 5 3 3 0 0
+2 2 405512 2 1 1 0 0
+35 35 7515385 8 3 3 0 0
+132 132 20336242 11 9 8 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+53 44 8182420 4 7 3 0 0
+26 23 6773773 4 9 8 0 0
+307 248 19660319 15 70 7 0 0
+45 41 45699387 2 20 1 0 0
+105 100 8696556 11 18 9 0 0
+275 231 14251801 12 42 9 0 0
+164 133 1885018 12 22 9 0 0
+173 155 8841490 16 14 10 0 0
+94 78 1222938 5 14 5 0 0
+103 93 16590826 10 8 6 0 0
+90 77 785335 3 7 4 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+354 298 15957998 9 27 13 0 0
+107 86 6979115 3 5 3 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2 2 5117 1 0 0
+27 20 270230 1 0 0
+43 33 303082 6 0 0
+139 125 17068202 16 0 0
+362 294 25468694 73 0 0
+78 64 1419124 8 0 0
+116 90 1147872 9 0 0
+64 62 14638205 6 0 0
+134 111 1375471 16 0 0
+161 144 13132429 35 0 0
+127 119 8749256 20 0 0
+193 171 14326076 16 0 0
+78 65 428284 9 0 0
+60 49 592883 6 0 0
+60 53 7375976 6 0 0
+16 16 1144197 1 0 0
+95 87 7064194 11 0 0
+48 43 45704868 22 0 0
+29 29 6819650 1 0 0
+5 5 412409 2 0 0
+38 38 7101321 5 0 0
+52 44 1089272 2 0 0
+114 100 8199543 6 0 0
+37 24 386418 1 0 0
+0
+0
+0
+1788
+0
+0
+0
+0
+0
+24
+0
+0
+1
+17
+212
+0
+9
+0
+0
+0
+2
+18
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+# -urls- 
+/assets/captcha/1587097678.43.jpg
+1 1 0 5560 0 0 0 0
+/assets/admin/dist/js/dashboard.js
+0 4 0 9744 0 0 0 0
+/assets/captcha/1587369910.1661.jpg
+1 1 0 7583 0 0 0 0
+/assets/admin/dist/js//sweetalert.js
+0 50 0 609749 0 0 0 0
+/assets/captcha/1586406106.8247.jpg
+1 1 0 6997 0 0 0 0
+/assets/gambar/slider1536910727.jpg
+1 43 0 3495354 0 0 0 0
+/assets/captcha/1586406348.8048.jpg
+1 1 0 7746 0 0 0 0
+/assets/captcha/1587381493.3806.jpg
+1 1 0 7717 0 0 0 0
+/assets/captcha/1586001290.6359.jpg
+1 1 0 7336 0 0 0 0
+/assets/bg.png
+1 44 0 72433 0 0 0 0
+/assets/Lobibox.min.css
+0 40 0 153574 0 0 0 0
+/assets/captcha/1586018726.2163.jpg
+1 1 0 7187 0 0 0 0
+/assets/captcha/1587357570.3301.jpg
+1 1 0 7686 0 0 0 0
+/pendaftar/profil/cetak
+0 4 0 5668 0 0 0 0
+/assets/no_foto.png
+1 3 0 518 0 0 0 0
+/detail_p.jsp/PSB-09-14
+0 2 0 6818 0 0 0 0
+/assets/ckeditor/ckeditor.js
+0 6 0 832980 0 0 0 0
+/assets/captcha/1586601122.0166.jpg
+1 1 0 4844 0 0 0 0
+/assets/admin/dist/js/bootstrap-datepicker.min.js
+0 4 0 41578 0 0 0 0
+/assets/captcha/1586001173.313.jpg
+1 1 0 7387 0 0 0 0
+/assets/captcha/1587367564.496.jpg
+1 1 0 6589 0 0 0 0
+/assets/admin/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css
+0 1 0 1653 0 0 0 0
+/assets/admin/dist/js/bootstrap.min.js
+0 5 0 50821 0 0 0 0
+/assets/captcha/1587097089.1161.jpg
+1 1 0 7757 0 0 0 0
+/assets/captcha/1587505504.6074.jpg
+1 1 10 7684 0 0 0 0
+/assets/admin/plugins/datatables.net-bs/js/jquery.slimscroll.min.js
+0 4 0 8871 0 0 0 0
+/assets/no-image.jpg
+1 2 0 4622318 0 0 0 0
+/assets/admin/bootstrap/font-awesome/css/font-awesome.min.css
+0 42 0 309667 0 0 0 0
+/assets/admin/dist/js/Chart.js
+0 4 0 97180 0 0 0 0
+/assets/captcha/1587437936.8619.jpg
+1 1 61 7770 0 0 0 0
+/assets/captcha/1585746623.2119.jpg
+1 1 0 6362 0 0 0 0
+/assets/ckeditor/styles.js
+0 4 0 6804 0 0 0 0
+/assets/captcha/1586600694.4402.jpg
+1 1 0 5978 0 0 0 0
+/assets/admin/plugins/datatables.net-bs/js/jquery.dataTables.min.js
+0 4 0 112695 0 0 0 0
+/assets/captcha/1587040331.2801.jpg
+1 1 0 7751 0 0 0 0
+/assets/captcha/1587097696.8531.jpg
+1 1 0 7474 0 0 0 0
+/assets/admin/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+0 1 0 1653 0 0 0 0
+/assets/captcha/1587362879.8653.jpg
+1 1 0 7612 0 0 0 0
+/assets/captcha/1587381421.6401.jpg
+1 1 0 5616 0 0 0 0
+/assets/captcha/1586949917.2895.jpg
+1 1 0 5334 0 0 0 0
+/assets/captcha/1586685699.5443.jpg
+1 1 0 5538 0 0 0 0
+/assets/captcha/1586246051.4593.jpg
+1 1 0 5050 0 0 0 0
+/assets/captcha/1585922585.5259.jpg
+1 1 0 7708 0 0 0 0
+/home/login
+0 27 0 12425 0 1 0 0
+/assets/captcha/1587007642.2353.jpg
+1 1 0 6893 0 0 0 0
+/assets/captcha/1586865588.6299.jpg
+1 1 0 7184 0 0 0 0
+/assets/captcha/1587400082.5173.jpg
+1 1 0 4946 0 0 0 0
+/assets/captcha/1587039502.4096.jpg
+1 1 0 6329 0 0 0 0
+/assets/captcha/1586018562.315.jpg
+1 1 0 7702 0 0 0 0
+/assets/captcha/1587438491.5051.jpg
+1 2 55 15502 0 0 0 0
+/assets/admin/dist/css/skins/bootstrap-datepicker.min.css
+0 30 0 49580 0 0 0 0
+/assets/captcha/1586853593.5695.jpg
+1 1 0 7704 0 0 0 0
+/assets/captcha/1587369936.6304.jpg
+1 1 0 6547 0 0 0 0
+/assets/captcha/1586611913.8576.jpg
+1 1 0 4853 0 0 0 0
+/assets/captcha/1586601594.3888.jpg
+1 1 0 7355 0 0 0 0
+/assets/admin/bootstrap/font-awesome/fonts/fontawesome-webfont.woff2
+0 42 0 1140524 0 0 0 0
+/admin/hak_akses
+0 2 0 8216 0 0 0 0
+/assets/captcha/1586904242.8593.jpg
+1 1 0 5272 0 0 0 0
+/assets/captcha/1587039547.599.jpg
+1 1 0 7697 0 0 0 0
+/assets/admin/dist/css/AdminLTE.min.css
+0 41 0 621301 0 0 0 0
+/assets/captcha/1586406223.8075.jpg
+1 1 0 7496 0 0 0 0
+/assets/captcha/1586407648.5924.jpg
+1 1 0 5942 0 0 0 0
+/assets/captcha/1586406862.4285.jpg
+1 1 0 6948 0 0 0 0
+/assets/admin/dist/js/adminlte.min.js
+0 5 0 19707 0 0 0 0
+/assets/captcha/1586845544.9626.jpg
+1 1 0 7524 0 0 0 0
+/favicon.ico
+0 12 0 20049 0 0 0 0
+/assets/captcha/1586817755.4486.jpg
+1 1 0 5847 0 0 0 0
+/assets/captcha/1586853617.6169.jpg
+1 1 0 5554 0 0 0 0
+/psb_aplikasi.tgz
+0 2 0 45092844 0 0 0 0
+/assets/captcha/1586416349.3722.jpg
+1 1 0 7670 0 0 0 0
+/assets/admin/bootstrap/js//jquery-1.11.2.min.js
+0 46 0 1546485 0 0 0 0
+/cetak_pdf.jsp/PSB-09-14
+0 1 0 1551 0 0 0 0
+/assets/admin/plugins/iCheck/icheck.min.js
+0 1 0 2504 0 0 0 0
+/assets/captcha/1587007940.9011.jpg
+1 1 0 7668 0 0 0 0
+/detail_p.jsp/PSB-11-15
+0 1 0 3407 0 0 0 0
+/assets/captcha/1587390701.2799.jpg
+1 1 0 5078 0 0 0 0
+/assets/captcha/1586407256.4442.jpg
+1 1 0 5226 0 0 0 0
+/assets/file_pendaftar/foto1586406635.jpg
+1 7 0 280192 0 0 0 0
+/assets/gambar/slider1536910753.png
+1 52 0 74111982 0 0 0 0
+/admin/
+0 10 0 51062 0 0 0 0
+/assets/admin/plugins/datatables.net-bs/css/dataTables.bootstrap.min.css
+0 4 0 4996 0 0 0 0
+/assets/captcha/1587376271.8779.jpg
+1 1 0 6092 0 0 0 0
+/assets/captcha/1587000875.837.jpg
+1 1 0 6822 0 0 0 0
+/assets/captcha/1586853547.6875.jpg
+1 1 0 5605 0 0 0 0
+/assets/captcha/1586746954.0366.jpg
+1 1 0 6968 0 0 0 0
+/pendaftar/
+0 4 0 13998 0 0 0 0
+/assets/captcha/1586683197.4457.jpg
+1 1 0 5748 0 0 0 0
+/admin/pendaftar
+0 15 0 96462 3 0 0 0
+/assets/captcha/1587366003.1905.jpg
+1 1 0 7654 0 0 0 0
+/assets/gambar/slider1539195311.jpg
+1 334 0 546784 0 0 0 0
+/assets/jquery-1.10.2.js
+0 44 0 3584714 0 0 0 0
+/detail_p.jsp/PSB-09-1
+0 2 0 6916 0 0 0 0
+/assets//carousel.css
+0 41 0 41025 0 0 0 0
+/admin/pendaftar/cetak/14-Cetak-Data-Pendaftar.pdf
+0 1 0 6065 0 0 0 0
+/assets/admin/bower_components/bootstrap/dist/js/bootstrap.min.js
+0 1 0 1653 0 0 0 0
+/assets/captcha/1586246082.0616.jpg
+1 1 0 7657 0 0 0 0
+/assets/foto_admin/foto_admin1584708765.jpg
+1 4 0 689 0 0 0 0
+/assets/captcha/1586018712.4377.jpg
+1 1 0 7462 0 0 0 0
+/assets/admin/dist/css/datepicker.css
+0 3 0 4243 0 0 0 0
+/adminer_cs.php
+0 16 0 333324 0 0 0 0
+/assets/admin/dist/js/jquery.min.js
+0 9 0 275531 0 0 0 0
+/assets/captcha/1586817356.0236.jpg
+1 1 0 5280 0 0 0 0
+/assets/admin/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 3 0 518 0 0 0 0
+/assets/admin/bower_components/bootstrap-daterangepicker/daterangepicker.css
+0 1 0 1653 0 0 0 0
+/assets/captcha/1586246070.9287.jpg
+1 1 0 5689 0 0 0 0
+/cek-lulus.jsp
+0 9 0 23451 0 0 0 0
+/assets/captcha/1586601382.3916.jpg
+1 1 0 5778 0 0 0 0
+/adminer_cus.php
+0 1 0 1781 1 0 0 0
+/assets/gambar/slider1537118403.jpg
+1 41 0 2758782 0 0 0 0
+/assets/captcha/1586779455.3266.jpg
+1 1 0 7605 0 0 0 0
+/assets/captcha/1586817086.0841.jpg
+1 1 0 4918 0 0 0 0
+/sounds/sound6.ogg
+0 156 0 674967 0 0 0 0
+/assets/admin/dist/js/bootstrap.bundle.min.js
+0 42 0 883026 0 0 0 0
+/assets/admin/dist/css/ehsan_nahyed.css
+0 41 0 56730 0 0 0 0
+/assets/captcha/1587370027.8433.jpg
+1 1 0 7283 0 0 0 0
+/assets/captcha/1586001278.2818.jpg
+1 1 0 7677 0 0 0 0
+/cetak_pdf.jsp/PSB-09-1
+0 1 0 1600 0 0 0 0
+/assets/admin/dist/img/proc.png
+1 51 0 17195301 0 0 0 0
+/assets/captcha/1586685708.0499.jpg
+1 1 0 7583 0 0 0 0
+/assets/admin/bower_components/Ionicons/css/ionicons.min.css
+0 1 0 1653 0 0 0 0
+/assets/bootstrap.min.css
+0 46 0 984837 0 0 0 0
+/assets/gambar/1584686425.png
+1 47 0 8545272 0 0 0 0
+/assets/captcha/1586407722.0035.jpg
+1 1 0 6537 0 0 0 0
+/assets/jquery.backstretch.min.js
+0 41 0 87792 0 0 0 0
+/assets/file_pendaftar/foto1586408142.jpg
+1 8 0 8294528 0 0 0 0
+/assets/captcha/1586949877.4767.jpg
+1 1 0 7006 0 0 0 0
+/.well-known/assetlinks.json
+0 1 0 3869 0 0 0 0
+/
+0 141 0 462571 93 20 0 0
+/pendaftaran.jsp
+0 83 0 347461 0 0 0 0
+/assets/admin/bower_components/jquery/dist/jquery.min.js
+0 1 0 1653 0 0 0 0
+/pendaftar/profil
+0 5 0 18314 0 0 0 0
+/assets/captcha/1586600382.8934.jpg
+1 1 0 7726 0 0 0 0
+/assets/captcha/1587007725.2317.jpg
+1 1 0 4495 0 0 0 0
+/assets/captcha/1586407467.6366.jpg
+1 1 0 7629 0 0 0 0
+/assets/captcha/1586405911.9966.jpg
+1 1 0 6380 0 0 0 0
+/assets/captcha/1587382691.8497.jpg
+1 1 0 7161 0 0 0 0
+/assets/admin/bootstrap/css/bootstrap.min.css
+0 6 0 120394 0 0 0 0
+/assets/captcha/1586600969.5727.jpg
+1 1 0 4691 0 0 0 0
+/assets/captcha/1586853615.8604.jpg
+1 1 0 7696 0 0 0 0
+/assets/admin/dist/js//jquery.min.js
+0 44 0 1348322 0 0 0 0
+/assets/captcha/1587365485.9349.jpg
+1 1 0 5549 0 0 0 0
+/assets/captcha/1586683192.5639.jpg
+1 1 0 7509 0 0 0 0
+/assets/foto_admin/foto_admin1534694266.jpg
+1 1 0 173 0 0 0 0
+/assets/admin/plugins/datatables.net-bs/js/dataTables.bootstrap.min.js
+0 4 0 5562 0 0 0 0
+/assets/captcha/1586407937.1785.jpg
+1 1 0 6134 0 0 0 0
+/admin
+0 4 0 20184 0 0 0 0
+/admin/pendaftar/cetak/13-Cetak-Data-Pendaftar.pdf
+0 2 0 12129 0 0 0 0
+/assets/gambar/slider1536911201.jpg
+1 41 0 2090412 0 0 0 0
+/db_ppdb.sql
+0 2 0 28808 0 0 0 0
+/assets/admin/bower_components/morris.js/morris.css
+0 1 0 1653 0 0 0 0
+/assets/admin/bower_components/jvectormap/jquery-jvectormap.css
+0 1 0 1653 0 0 0 0
+/robots.txt
+0 22 0 41270 0 0 0 0
+/assets/admin/dist/css/skins/_all-skins.min.css
+0 5 0 18203 0 0 0 0
+/assets/lobibox.js
+0 41 0 450470 0 0 0 0
+/assets/captcha/1587101770.5014.jpg
+1 1 0 7437 0 0 0 0
+/assets/captcha/1586687192.742.jpg
+1 1 0 7219 0 0 0 0
+/assets/captcha/1587102274.456.jpg
+1 1 0 5147 0 0 0 0
+/pendaftar
+0 7 0 24767 0 0 0 0
+/pengumuman.jsp
+0 9 0 26329 0 0 0 0
+/assets/captcha/1587513427.9039.jpg
+1 1 0 6528 0 0 0 0
+/assets/raport//rapor_scan1586407879.pdf
+0 8 0 779155 0 0 0 0
+/home/tampil_artikel//4
+0 1 0 548 1 0 0 0
+/assets/captcha/1587400075.6842.jpg
+1 1 0 7201 0 0 0 0
+/assets/captcha/1586018718.6624.jpg
+1 1 0 7690 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+182.1.179.181
+0 8 8 28574 1 1586018722 0 0
+/
+36.85.219.249
+0 23 17 257287 1 1586701974 0 0
+/
+114.125.184.25
+0 7 7 285274 1 1586000832 0 0
+/
+114.125.184.93
+0 27 27 6571597 1 1586000787 0 0
+/
+182.1.178.194
+0 14 14 46053 1 1586018727 0 0
+/
+182.1.192.148
+0 1 1 30596 0 0 0 0
+-
+185.20.6.155
+0 1 1 3280 1 1586784798 0 0
+/
+182.1.179.195
+0 8 8 25900 1 1586018510 0 0
+/
+182.1.193.252
+0 3 3 162281 0 0 0 0
+-
+66.249.64.220
+0 17 16 5343105 4 1586897996 0 0
+/
+114.125.215.167
+0 10 10 5044762 1 1585922579 0 0
+/
+66.249.64.222
+0 12 11 1320095 4 1586966923 0 0
+/
+36.75.181.157
+0 32 25 299263 1 1587505459 0 0
+/
+114.125.169.121
+0 1 1 6943 1 1586756875 0 0
+/admin/pendaftar
+36.85.217.20
+0 131 107 846086 1 1586683635 0 0
+/
+114.125.215.151
+0 11 11 749933 0 0 0 0
+-
+66.249.75.190
+0 3 3 6897 1 1586816242 0 0
+/
+182.1.193.168
+0 2 2 4749 1 1586600853 0 0
+/
+182.1.194.239
+0 8 8 367523 0 0 0 0
+-
+64.233.172.91
+0 14 14 6961062 1 1586332749 0 0
+/
+114.125.215.11
+0 4 4 982240 0 0 0 0
+-
+182.1.195.157
+0 11 11 36137 1 1586601379 0 0
+/
+36.85.216.202
+0 49 42 346216 1 1587370117 0 0
+/
+66.249.75.23
+0 9 9 105193 1 1586879510 0 0
+/
+61.94.165.136
+0 22 22 73514 3 1586692795 0 0
+/
+114.125.169.183
+0 5 5 15003 1 1586001165 0 0
+/
+114.125.184.249
+0 7 7 398159 1 1586000727 0 0
+/
+182.1.163.46
+0 23 23 7916904 1 1586246079 0 0
+/
+182.1.193.33
+0 21 21 6393251 1 1586904218 0 0
+/
+114.125.199.175
+0 1 1 1597 0 0 0 0
+-
+180.249.82.124
+0 29 22 273810 1 1586687137 0 0
+/
+66.220.149.40
+0 1 1 3346 1 1587400071 0 0
+/
+36.85.216.108
+0 26 19 289756 1 1586734411 0 0
+/
+182.1.192.36
+0 12 11 4683467 1 1586408137 0 0
+-
+66.220.149.1
+0 1 1 524583 0 0 0 0
+-
+66.249.68.26
+0 15 15 6194275 0 0 0 0
+-
+180.249.80.137
+0 8 8 28659 1 1587381558 0 0
+/
+182.1.192.253
+0 5 4 73319 1 1586408104 0 0
+-
+66.249.75.188
+0 13 13 182181 2 1586840918 0 0
+/
+36.85.220.156
+0 1 1 3336 1 1587089934 0 0
+/
+36.85.216.222
+0 70 55 585128 2 1587377535 0 0
+/
+114.142.172.30
+0 37 37 6967548 1 1587007920 0 0
+/
+125.165.127.79
+0 19 16 42286 1 1586921143 0 0
+/admin/
+36.85.219.118
+0 8 7 26249 1 1585746620 0 0
+/
+114.125.215.131
+0 2 2 19482 0 0 0 0
+-
+182.1.208.161
+0 8 8 609957 1 1586904230 0 0
+/
+182.1.211.157
+0 13 12 2938341 1 1586408169 0 0
+/pendaftar/profil/cetak
+66.249.64.202
+0 1 1 1781 0 0 0 0
+-
+66.249.68.28
+0 5 5 41928 1 1586683941 0 0
+/
+103.113.3.180
+0 92 92 20050103 3 1587413095 0 0
+/
+36.85.216.165
+0 54 41 425957 1 1587438488 0 0
+/
+66.249.68.30
+0 1 1 12212 0 0 0 0
+-
+66.220.149.26
+0 1 1 3346 1 1587007628 0 0
+/
+182.1.192.158
+0 5 5 15168 1 1586600890 0 0
+/
+36.85.217.244
+0 32 25 286131 1 1587101765 0 0
+/
+182.1.210.169
+0 9 8 930827 0 0 0 0
+-
+66.220.149.31
+0 1 1 896734 0 0 0 0
+-
+112.215.237.45
+0 21 21 6253895 1 1587452962 0 0
+/
+36.85.223.107
+0 29 25 300570 2 1586614713 0 0
+/
+36.85.219.81
+0 55 42 520777 1 1586951632 0 0
+/
+64.233.172.93
+0 10 10 459627 3 1586765211 0 0
+/
+180.249.88.156
+0 28 21 260399 1 1586276258 0 0
+/home/login
+36.85.217.118
+0 25 22 70946 1 1587040312 0 0
+/
+114.125.185.219
+0 3 3 10581 0 0 0 0
+-
+36.85.217.60
+0 41 31 456545 3 1586779410 0 0
+/
+36.75.192.71
+0 3 3 12778 0 0 0 0
+-
+182.1.197.186
+0 2 2 6008 0 0 0 0
+-
+114.125.185.164
+0 29 29 6819650 1 1586025119 0 0
+/
+140.213.73.114
+0 8 8 19623 1 1586865549 0 0
+/
+140.213.74.123
+0 10 10 31943 1 1586865625 0 0
+/
+182.1.211.165
+0 4 4 13386 0 0 0 0
+-
+36.85.218.93
+0 72 59 777838 3 1587364407 0 0
+/admin/pendaftar
+66.249.75.189
+0 1 1 3869 0 0 0 0
+-
+66.249.75.191
+0 1 1 3869 0 0 0 0
+-
+182.1.212.171
+0 6 6 4502217 0 0 0 0
+-
+182.1.208.36
+0 21 20 2857309 1 1586601636 0 0
+/pendaftar/profil
+66.220.149.34
+0 2 2 900080 1 1587007628 0 0
+/
+36.85.216.214
+0 57 51 495868 2 1587102266 0 0
+/
+173.252.87.18
+0 1 1 524583 0 0 0 0
+-
+182.1.199.20
+0 2 2 899958 1 1586600367 0 0
+/
+66.249.64.200
+0 1 1 3336 1 1585768922 0 0
+/
+36.85.218.199
+0 197 152 4682718 1 1586408234 0 0
+/admin/pendaftar
+64.233.172.95
+0 6 6 456908 1 1585891932 0 0
+/
+36.85.217.26
+0 10 10 32508 1 1586416356 0 0
+/
+182.1.195.188
+0 6 6 19301 0 0 0 0
+-
+66.249.75.24
+0 6 6 142270 0 0 0 0
+-
+36.85.216.80
+0 4 4 14580 0 0 0 0
+-
+182.1.192.57
+0 2 2 4877 1 1586600679 0 0
+/
+36.85.217.129
+0 59 46 563817 1 1587381495 0 0
+/
+182.1.209.133
+0 16 16 4675655 1 1586406855 0 0
+/
+114.125.215.152
+0 5 5 311859 1 1585922571 0 0
+/
+66.249.73.156
+0 1 1 7382 0 0 0 0
+-
+182.1.210.54
+0 1 1 1349 0 0 0 0
+-
+36.85.219.143
+0 10 10 32321 1 1587376265 0 0
+/
+114.125.184.209
+0 12 12 6097216 0 0 0 0
+-
+182.1.210.239
+0 13 12 575564 0 0 0 0
+-
+66.249.64.218
+0 28 27 1326788 5 1586986161 0 0
+/
+180.249.94.218
+0 24 17 257452 1 1587344785 0 0
+/
+66.220.149.13
+0 1 1 3346 1 1587007626 0 0
+/
+182.1.208.154
+0 4 4 164937 0 0 0 0
+-
+110.136.50.37
+0 41 38 5382817 1 1586539652 0 0
+/adminer_cs.php
+180.241.217.235
+0 4 4 40316570 0 0 0 0
+-
+114.125.185.15
+0 12 12 38235 0 0 0 0
+-
+36.85.218.165
+0 44 37 329261 1 1586853595 0 0
+/
+36.85.216.70
+0 31 24 277687 1 1586845469 0 0
+/
+182.1.192.30
+0 21 20 456351 1 1586407462 0 0
+/
+66.249.75.186
+0 13 13 172379 0 0 0 0
+-
+36.85.216.86
+0 62 48 556778 1 1586817747 0 0
+/
+182.1.195.58
+0 19 19 50262 1 1586601665 0 0
+/pendaftar/profil/cetak
+36.85.219.12
+0 40 33 326546 1 1586779416 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+36.75.181.157
+0 32 25 299263 1 1587505459 0 0
+/
+36.85.216.165
+0 54 41 425957 1 1587438488 0 0
+/
+112.215.237.45
+0 21 21 6253895 1 1587452962 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://smpn1kwandang.sch.id/download
+0 1
+http://ppdb.smpn1kwandang.sch.id/adminer_cus.php
+0 16
+http://ppdb.smpn1kwandang.sch.id/admin/hak_akses
+0 6
+http://ppdb.smpn1kwandang.sch.id/admin/pendaftar
+0 81
+http://ppdb.smpn1kwandang.sch.id/admin
+0 12
+http://ppdb.smpn1kwandang.sch.id/detail_p.jsp/PSB-09-14
+0 6
+http://smpn1kwandang.sch.id/berita
+0 1
+https://www.google.co.id/
+0 2
+- (Direct Request)
+0 135
+http://ppdb.smpn1kwandang.sch.id/adminer_cs.php
+0 17
+http://ppdb.smpn1kwandang.sch.id/detail_p.jsp/PSB-11-15
+0 3
+http://smpn1kwandang.sch.id/agenda
+0 1
+http://m.facebook.com/
+0 1
+http://ppdb.smpn1kwandang.sch.id/cetak_pdf.jsp/PSB-09-14
+0 1
+http://ppdb.smpn1kwandang.sch.id/admin/
+0 82
+http://ppdb.smpn1kwandang.sch.id/pendaftar/
+0 35
+http://ppdb.smpn1kwandang.sch.id/pendaftar/profil/cetak
+0 5
+http://ppdb.smpn1kwandang.sch.id/pendaftar/profil
+0 14
+http://ppdb.smpn1kwandang.sch.id//assets/admin/bootstrap/font-awesome/css/font-awesome.min.css
+0 2
+http://ppdb.smpn1kwandang.sch.id/
+0 1138
+http://smpn1kwandang.sch.id/
+0 29
+http://ppdb.smpn1kwandang.sch.id/cek-lulus.jsp
+0 22
+http://ppdb.smpn1kwandang.sch.id/pengumuman.jsp
+0 33
+https://l.facebook.com/
+0 1
+https://www.youtube.com/
+0 28
+http://www.google.com/
+0 7
+http://ppdb.smpn1kwandang.sch.id/pendaftar
+0 29
+http://ppdb.smpn1kwandang.sch.id/assets/admin/bootstrap/css/bootstrap.min.css
+0 3
+http://ppdb.smpn1kwandang.sch.id/cetak_pdf.jsp/PSB-09-1
+0 1
+http://ppdb.smpn1kwandang.sch.id/pendaftaran.jsp
+0 319
+http://ppdb.smpn1kwandang.sch.id/assets/admin/bootstrap/font-awesome/css/font-awesome.min.css
+0 39
+http://ppdb.smpn1kwandang.sch.id/detail_p.jsp/PSB-09-1
+0 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J250F Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile 
+0 80
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 87
+Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi Note 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 57
+Mozilla/5.0 (Linux; Android 9; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/53
+0 54
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 26
+Mozilla/5.0 (Linux; Android 8.1.0; CPH1909) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 280
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+0 508
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 32
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 46
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 8.1.0; SM-A260G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36
+0 70
+Mozilla/5.0 (Linux; U; Android 9; in-id; CPH1923 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 31
+Mozilla/5.0 (Linux; Android 6.0.1; vivo 1610) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.3
+0 67
+Mozilla/5.0 (Linux; U; Android 8.1.0; id-id; Redmi 6A Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 90
+Googlebot-Image/1.0
+0 14
+WhatsApp/2.19.360 A
+0 1
+Mozilla/5.0 (Linux; U; Android 7.1.2; id-id; Redmi 4X Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 26
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1853 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 8
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4X Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 32
+Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E14
+0 39
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 8
+Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+0 23
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/80.0.39
+0 26
+Mozilla/5.0 (Linux; Android 9; SKW-H0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36
+0 106
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.
+0 41
+Mozilla/5.0 (Linux; Android 9; SKW-H0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36
+0 19
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 15
+GBWhatsApp/2.19.291 A
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 8
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1816) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.3
+0 29
+Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.
+0 37
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1909 Build/O11019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 155
+Mozilla/5.0 (Linux; Android 9; SM-A205F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36
+0 33
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
